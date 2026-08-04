@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/FleetFuelCardManagement.Api.props" />
-</Project>
