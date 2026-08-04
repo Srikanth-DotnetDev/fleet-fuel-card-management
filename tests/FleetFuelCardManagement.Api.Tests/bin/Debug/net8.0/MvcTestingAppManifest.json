@@ -1,0 +1,6 @@
+{
+  "FleetFuelCardManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/srikanthchowdary\/Downloads\/GitHub Application \/awesome-copilot\/fleet-fuel-card-management\/src\/FleetFuelCardManagement.Api",
+  "FleetFuelCardManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/srikanthchowdary\/Downloads\/GitHub Application \/awesome-copilot\/fleet-fuel-card-management\/src\/FleetFuelCardManagement.Application",
+  "FleetFuelCardManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/srikanthchowdary\/Downloads\/GitHub Application \/awesome-copilot\/fleet-fuel-card-management\/src\/FleetFuelCardManagement.Domain",
+  "FleetFuelCardManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/srikanthchowdary\/Downloads\/GitHub Application \/awesome-copilot\/fleet-fuel-card-management\/src\/FleetFuelCardManagement.Infrastructure"
+}

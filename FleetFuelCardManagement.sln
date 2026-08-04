@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EC2E844D-81E2-4A13-ACB1-20CBF3595237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetFuelCardManagement.Api", "src\FleetFuelCardManagement.Api\FleetFuelCardManagement.Api.csproj", "{DBA6B0F0-E827-42A6-A87D-91F0C796790A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{66916EB0-1EA3-4AAC-B302-5141AEF5B252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetFuelCardManagement.Domain.Tests", "tests\FleetFuelCardManagement.Domain.Tests\FleetFuelCardManagement.Domain.Tests.csproj", "{01F07BA5-7F8A-4D7B-8DA8-F7CBEC2A6118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetFuelCardManagement.Api.Tests", "tests\FleetFuelCardManagement.Api.Tests\FleetFuelCardManagement.Api.Tests.csproj", "{FB2D7A50-B669-4F31-89F9-F89CD1965730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA6B0F0-E827-42A6-A87D-91F0C796790A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA6B0F0-E827-42A6-A87D-91F0C796790A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA6B0F0-E827-42A6-A87D-91F0C796790A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA6B0F0-E827-42A6-A87D-91F0C796790A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F07BA5-7F8A-4D7B-8DA8-F7CBEC2A6118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F07BA5-7F8A-4D7B-8DA8-F7CBEC2A6118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F07BA5-7F8A-4D7B-8DA8-F7CBEC2A6118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F07BA5-7F8A-4D7B-8DA8-F7CBEC2A6118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2D7A50-B669-4F31-89F9-F89CD1965730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2D7A50-B669-4F31-89F9-F89CD1965730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2D7A50-B669-4F31-89F9-F89CD1965730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2D7A50-B669-4F31-89F9-F89CD1965730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBA6B0F0-E827-42A6-A87D-91F0C796790A} = {EC2E844D-81E2-4A13-ACB1-20CBF3595237}
+		{01F07BA5-7F8A-4D7B-8DA8-F7CBEC2A6118} = {66916EB0-1EA3-4AAC-B302-5141AEF5B252}
+		{FB2D7A50-B669-4F31-89F9-F89CD1965730} = {66916EB0-1EA3-4AAC-B302-5141AEF5B252}
+	EndGlobalSection
+EndGlobal
